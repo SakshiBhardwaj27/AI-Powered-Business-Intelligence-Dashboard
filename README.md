@@ -5,7 +5,15 @@
 An end-to-end Business Intelligence project that analyzes the Amazon Prime Video dataset using Python, SQL, Power BI, Streamlit, and Generative AI. The application provides interactive dashboards, AI-powered analytics, and business insights.
 
 ---
+# AI-Powered Business Intelligence Dashboard
 
+## Live Demo
+https://sakshibhardwaj27-ai-powered-business-intelligence-da-app-eddlvb.streamlit.app
+
+## GitHub Repository
+https://github.com/SakshiBhardwaj27/AI-Powered-Business-Intelligence-Dashboard
+
+---
 ## Features
 
 - Interactive Dashboard
