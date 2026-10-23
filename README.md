@@ -1,4 +1,4 @@
-::: {align="center"}
+<div align="center">
 # 🎬 AI-Powered Business Intelligence Dashboard
 
 ### Amazon Prime Video Catalogue Analytics · Interactive BI · AI-Assisted Exploration
@@ -20,7 +20,7 @@ Locally](#-run-the-project-locally) · [AI
 Analyst](#-how-the-ai-analyst-works) ·
 [Limitations](#-limitations-and-responsible-interpretation) · [Interview
 Guide](#-project-defence-interview-guide)
-:::
+</div>
 
 ------------------------------------------------------------------------
 
