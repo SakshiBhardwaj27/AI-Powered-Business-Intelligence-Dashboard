@@ -1,5 +1,5 @@
 <div align="center">
-# 🎬 AI-Powered Business Intelligence Dashboard
+# 🎬 AI-Powered Business Intelligence Dashboard 
 
 ### Amazon Prime Video Catalogue Analytics · Interactive BI · AI-Assisted Exploration
 
